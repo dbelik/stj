@@ -1,2 +1,2 @@
 # stj
-stj is a collection of reusable Javascript pieces to accelerate development.
+stj is an open source collection of reusable Javascript pieces to accelerate development.
